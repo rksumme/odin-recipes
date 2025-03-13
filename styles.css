@@ -1,0 +1,17 @@
+body {
+    background-color: #f2f2eb;
+}
+
+h1 {
+    text-align: center;
+    color: #401b1b;
+    background-color: #d2dce6;
+}
+
+li, p {
+    color: #401b1b;
+}
+
+a {
+    color: #72383d;
+}
